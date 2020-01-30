@@ -14,7 +14,7 @@ TRAIN:
     FLAG: False
     NET_G: '/storage/coco/coco_AttnGAN2.pth'
     B_NET_D: False
-    BATCH_SIZE: 100
+    BATCH_SIZE: 20
     NET_E: '/storage/coco/text_encoder100.pth'
 
 
